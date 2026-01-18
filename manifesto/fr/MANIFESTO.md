@@ -1,0 +1,1 @@
+Aide demandée : Veuillez contribuer une traduction française précise du Manifeste du Team de Développement IA.
