@@ -1,0 +1,1 @@
+Se necesita ayuda: Por favor contribuye con una traducción precisa al español del Manifiesto del Equipo de Desarrollo de IA.
