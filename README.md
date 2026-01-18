@@ -11,7 +11,7 @@ This repository collects the **AI Development Team Manifesto**—a set of princi
 
 **This manifesto originated from Francesco D'Ambrosio within the Minsait-Indra team development group.**
 
-The manifesto outlines principles and values for the development of AI technologies, focusing on ethical considerations, collaboration, and innovation.
+The manifesto outlines principles and values for the development using AI Agentic technologies, focusing on ethical considerations, collaboration, and innovation.
 
 - **Originally written in Italian:** [Read the Italian original here](./manifesto/it/MANIFESTO.md)
 - **Multilingual:** We welcome translations!
@@ -35,29 +35,18 @@ The manifesto outlines principles and values for the development of AI technolog
 > "AI is our ally, not our substitute."
 
 **Ownership & Review**  
-- Anyone opening a Pull Request is responsible and must fully understand all code and choices.  
-- AI supports development but does not decide for us.  
-- Code reviewers are accountable for quality. Technical competence remains essential.
-
+...
 **Documentation & Transparency**  
-- The `Agents.md` document is the foundation and must be updated with unique project needs, rules, and repeated chat requests.
-
+...
 **Task Focus**  
-- Work strictly within the boundaries of the assigned task or bug. Suggestions outside scope should be reported or turned into new user stories.
-
+...
 **Clear, Reproducible Tasks**  
-- Break down work into atomic, manageable tasks, especially in experimental phases.  
-- All requirements and bugs must be clearly documented with steps to reproduce.
-
+...
 **Prompting & Standardization**  
-- Prompts and model choices are team assets—not personal or improvised artifacts.  
-- Effective prompts and model decisions should be shared, discussed, improved, and documented to create team standards and best practices.
-
+...
 **Collaboration & Sharing**  
-- Team discussion and knowledge sharing are essential. AI is an ally, but human competence and ongoing collaboration provide true value.
-
+...
 **Our Mission**
-
 > "To experiment with AI in a responsible, transparent, and collaborative way—maintaining human control over decisions and ensuring quality, security, and alignment with team standards."
 
 ---
@@ -65,7 +54,7 @@ The manifesto outlines principles and values for the development of AI technolog
 ## Translations
 
 - [Italian (original)](./manifesto/it/MANIFESTO.md)
-- [English](./manifesto/en/MANIFESTO.md) _(full version)_
+- [English](./manifesto/en/MANIFESTO.md) _(full version, help wanted)_
 - [French](./manifesto/fr/MANIFESTO.md) _(help wanted)_
 - [Spanish](./manifesto/es/MANIFESTO.md) _(help wanted)_
 - _See [`manifesto/`](./manifesto/) for all languages or contribute a new one!_
