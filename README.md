@@ -7,7 +7,7 @@ _We experiment with responsibility, expertise, and collaboration._
 
 ## About
 
-This repository collects the **AI Development Team Manifesto**—a set of principles, guidelines, and best practices for teams using AI in software development.
+This repository collects the **AI Development Team Manifesto**—a set of principles, guidelines, and best practices for teams using AI and agentic AI in software development.
 
 - **Originally written in Italian:** [Read the Italian original here](./manifesto/it/MANIFESTO.md)
 - **Multilingual:** We welcome translations!
@@ -35,7 +35,7 @@ This repository collects the **AI Development Team Manifesto**—a set of princi
 - All requirements and bugs must be clearly documented with steps to reproduce.
 
 **Prompting & Standardization**
-- Prompts and model choices are team assets—not personal or improvised artifacts. 
+- Prompts and model choices are team assets—not personal or improvised artifacts.  
 - Effective prompts and model decisions should be shared, discussed, improved, and documented to create team standards and best practices.
 
 **Collaboration & Sharing**
