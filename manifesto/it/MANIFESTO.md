@@ -1,5 +1,5 @@
 
-# Manifesto del Team di Sviluppo AI
+# Manifesto dei Team di Sviluppo AI
 
 > **AI è il nostro alleato, non il nostro sostituto**  
 > *Sperimentiamo con responsabilità, competenza e collaborazione.*
