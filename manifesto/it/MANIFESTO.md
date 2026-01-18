@@ -57,7 +57,7 @@
 - Ogni intervento deve rimanere **all’interno del perimetro del task/bug** e dei suoi requisiti.
 - Se l’IA suggerisce modifiche utili ma **non pertinenti al task corrente**:
   - **segnalarle** e/o
-  - **creare US dedicate** per una valutazione successiva.
+  - **creare task/issue/US dedicate** per una valutazione successiva.
 
 ---
 
