@@ -64,9 +64,9 @@
 ## Requisiti e Riproduzione
 
 ### 🛠 Task chiari e riproducibili
-- **Lavorare su task atomici**, con interventi limitati e circoscritti (almeno in questa prima fase sperimentale).
+- **Lavorare su task atomici**, con interventi limitati e circoscritti (almeno in nelle fasi iniziali).
 - Se l’intervento è più ampio (feature o modifica complessa), **utilizzare la modalità _Plan_** per suddividerlo in più task chiari e gestibili.
-- **Ogni task deve avere requisiti chiari**, espliciti e documentati.
+- **Ogni task/issue deve avere requisiti chiari**, espliciti e documentati.
 - **Ogni bug deve essere documentato con dettagli tecnici per la riproduzione**, includendo:
   - contesto
   - passi per riprodurre
@@ -93,7 +93,7 @@
   - migliorare l’**efficienza operativa**
   - **ridurre il consumo di risorse** (tempo, token, iterazioni inutili)
 - Prompt e scelte di modello ripetute o particolarmente efficaci vanno:
-  - **documentate** (es. nella sezione dedicata Discussions)
+  - **documentate** (es. nella sezione dedicata Discussions di Github)
   - **mantenute ed evolute** come **best practice di team**
 ``
 
@@ -110,6 +110,3 @@
 ## Il nostro obiettivo
 > Sperimentare l’IA in modo **responsabile, trasparente e collaborativo**, mantenendo il controllo umano sulle decisioni e garantendo qualità, sicurezza e coerenza con gli standard del team.
 ``
-# Manifesto
-
-The Italian manifesto will be here... (this is a placeholder description; actual content will be provided).
