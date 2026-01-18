@@ -56,7 +56,7 @@
 - Every action must stay **within the scope of the task/bug and its requirements**.
 - If AI suggests improvements useful but **not relevant to the current task**:
   - **report them** and/or
-  - **create dedicated user stories (US)** for later evaluation.
+  - **create dedicated task/issue/US** for later evaluation.
 
 ---
 
