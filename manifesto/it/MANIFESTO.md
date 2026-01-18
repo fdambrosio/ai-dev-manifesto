@@ -95,7 +95,6 @@
 - Prompt e scelte di modello ripetute o particolarmente efficaci vanno:
   - **documentate** (es. nella sezione dedicata Discussions di Github)
   - **mantenute ed evolute** come **best practice di team**
-``
 
 
 ---
