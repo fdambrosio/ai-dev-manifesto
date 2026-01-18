@@ -1,0 +1,1 @@
+Help wanted: Please contribute an accurate English translation of the AI Development Team Manifesto.
