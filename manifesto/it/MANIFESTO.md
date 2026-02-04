@@ -76,6 +76,7 @@
 ---
 
 
+
 ## Prompting, Modelli e Standardizzazione
 
 ### 🔁 Prompt e modelli come asset di team
@@ -98,6 +99,14 @@
 
 
 ---
+
+## Interazione diretta e anti-Sycophancy
+
+- **Niente "gentilezze"**: l'IA è uno strumento, non un interlocutore sociale. Evita "per favore", "riesci a" o espressioni dubitative. La cortesia inutile consuma token e, peggio ancora, attiva il bias di compiacenza (sycophancy): il modello tenderà a darti ragione per compiacerti, validando anche logiche errate.
+
+- **Comandi, non dialoghi**: sostituisci il ragionamento colloquiale con istruzioni dirette ('scrivi', 'risolvi', ...). Fornire troppi "perché" personali prima della soluzione spinge l'IA a riflettere i tuoi pregiudizi invece di analizzare il codice oggettivamente.
+
+- **Friction by Design**: se un'IA è sempre d'accordo con te, sospetta. Un prompt efficace deve forzare il modello a essere critico, non a farti da "Yes-Man".
 
 ## Collaborazione e Condivisione
 - Partecipare attivamente alla discussione e alla collaborazione con il team.

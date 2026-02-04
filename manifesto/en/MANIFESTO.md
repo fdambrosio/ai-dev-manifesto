@@ -74,6 +74,7 @@
 
 ---
 
+
 ## Prompting, Models, and Standardization
 
 ### 🔁 Prompts and Models as Team Assets
@@ -94,6 +95,14 @@
   - **documented** (e.g., in the dedicated GitHub Discussions section)
   - **maintained and evolved** as **team best practices**
 ---
+
+## Direct interaction and anti-Sycophancy
+
+- **No "niceties"**: AI is a tool, not a social counterpart. Avoid "please", "can you", or hesitant expressions. Unnecessary politeness wastes tokens and, worse, triggers sycophancy bias: the model will tend to agree with you to please you, even validating flawed logic.
+
+- **Commands, not dialogues**: replace conversational reasoning with direct instructions ('write', 'solve', ...). Providing too many personal "whys" before the solution pushes AI to mirror your biases instead of objectively analyzing the code.
+
+- **Friction by Design**: if an AI always agrees with you, be suspicious. An effective prompt should force the model to be critical, not act as a "Yes-Man".
 
 ## Collaboration and Sharing
 - Actively participate in team discussion and collaboration.
